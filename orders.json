@@ -1,0 +1,14 @@
+[
+  {
+    "sender_name": "Pero",
+    "sender_phone": "078888888",
+    "buyer_name": "Miki",
+    "buyer_phone": "076543210",
+    "buyer_city": "Krusevo",
+    "buyer_village": "/",
+    "buyer_adress": "/",
+    "price_per_order": 1200,
+    "shipping_fee": 150,
+    "whos_paying": "Sender"
+  }
+]
